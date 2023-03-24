@@ -17,5 +17,3 @@ tags:
 ---
 依赖库的学习理解，SDL，Dear ImGui
 - [SDL and Dear ImGui, C++ GUI without Qt](https://retifrav.github.io/blog/2019/05/26/sdl-imgui/) 
-  
-
