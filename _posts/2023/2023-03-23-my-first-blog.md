@@ -5,8 +5,7 @@ author:       "SunRay"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - Intro
 ---
 
 > 第一次搭建博客。

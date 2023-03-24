@@ -5,8 +5,10 @@ author:       "SunRay"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - graphics
+    - renderer
+    - opengl
+    - c++
 ---
 
 > 记录一下学习开源代码中查找到的有用的资料，查到之后就抛弃它们实在是太可惜了。
