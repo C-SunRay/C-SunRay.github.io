@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Learning c++ renderer based on OpenGL"kv
+title:        "Learning c++ renderer based on OpenGL"
 author:       "SunRay"
 header-style: text
 catalog:      true
